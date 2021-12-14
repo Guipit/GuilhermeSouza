@@ -15,7 +15,7 @@
 
 /* Definição do Header */
 .gui_header {
-  background-color: #a7bbc4;
+  background-color: #ffffff;
   text-align: center;
   padding: 20px;
 }
@@ -24,7 +24,7 @@
 /* A caixa de navegação - Menu */
 .gui_menu {
   overflow: hidden;
-  background-color: #333;
+  background-color: rgb(73, 73, 73);
 }
 
 /* Links de navegação */
@@ -92,7 +92,7 @@
   /* Branco com sombra*/
   /*text-shadow: -2px -2px rgb(230, 35, 22), 2px 2px rgb(29, 10, 112);         */
   /* Alto relevo*/
-  text-shadow: 2px 2px white, -2px -2px #444;
+  text-shadow: 2px 2px rgb(255, 0, 0), -2px -2px #444;
   /* Baixo relevo*/
 }
 
